@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 박성현
+subtitle: 박성현 / 27
 img_alt: Portrait of a man with beard and mustache
 layout: page
 ---
