@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m SeongHyeon.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      \#이것저것 #github pages #삽질 기록
   - section_id: about
     type: section_content
     title: About
